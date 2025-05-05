@@ -1,3 +1,4 @@
+@Login
 Feature: As a user I am able to login to sweetshop web application.
 
   Background:
@@ -16,4 +17,3 @@ Feature: As a user I am able to login to sweetshop web application.
     When the user click on login link.
     And the user click on login button.
     Then the user should be able to see the error successfully.
-
