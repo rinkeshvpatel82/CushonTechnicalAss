@@ -1,3 +1,4 @@
+@HomePage
 Feature: As a user I am able to search the product on sweetshop web application.
 
   Background:
