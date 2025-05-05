@@ -18,4 +18,4 @@ target/
 .project
 .classpath
 /.settings
-.screenshot
+/screenshot
