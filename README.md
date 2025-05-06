@@ -44,4 +44,4 @@ Create an automated test suite for https://sweetshop.netlify.app/ that includes:
 Left to do:
 mvn run Command
 "mvn test"
-log4j
+,log4j
