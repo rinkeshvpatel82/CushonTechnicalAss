@@ -40,7 +40,6 @@ public class PlaywrightDriver {
   public static void openPage() {
     prop = playwrightDriver.init_prop();
     page = playwrightDriver.initBrowser(prop);
-    //getPage().navigate(prop.getProperty("testUrl"));
   }
 
   public static void closeBrowser() {

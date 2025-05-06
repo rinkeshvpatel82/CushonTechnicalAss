@@ -9,9 +9,8 @@ import java.util.Properties;
 import utils.PlaywrightDriver;
 
 public class Hooks {
-  protected Properties prop;
-  Page page;
 
+  Page page;
   @Before
   public void setup() {
     PlaywrightDriver.setupDriver();

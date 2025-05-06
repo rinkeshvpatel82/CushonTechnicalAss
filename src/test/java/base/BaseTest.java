@@ -22,6 +22,6 @@ public class BaseTest {
     homePage = new HomePage(page);
   }
   /*
-    Standard functions will write here.
+    Standard functions write here.
    */
 }
